@@ -1,20 +1,4 @@
-<<<<<<< HEAD
-# cap_firebase
+#Capacitação da semana 5
+##Firebase
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Capacitacao_FireBase
->>>>>>> 3c635566edaf99ccc158215d567835d0fb2baaac
+###Semana destinada a aprendizagem de integração com banco de dados do firebase
