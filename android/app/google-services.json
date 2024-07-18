@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "272480208779",
+    "project_id": "my-chat-capacitacao",
+    "storage_bucket": "my-chat-capacitacao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272480208779:android:83762db9183f6a95d5d18e",
+        "android_client_info": {
+          "package_name": "com.capacitacao.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb9XJfi03isgKTz-78PqI11m34pof7UhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
